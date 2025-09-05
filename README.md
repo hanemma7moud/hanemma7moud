@@ -10,7 +10,7 @@
 - 🌱 I'm learning about **machine learning, automation, and advanced AI techniques**
 - 👯 I'm looking to collaborate on **open-source AI projects**
 - 💬 Ask me about **Python, AI, automation, and intelligent systems**
-- 📫 How to reach me: [ahmed@example.com](mailto:ahmed@example.com)
+- 📫 How to reach me: [ahmed@example.com](mailto:hanemma7moud@gmail.com)
 - ⚡ Fun fact: I believe AI will revolutionize how we solve complex problems
 
 ## 🛠️ Tech Stack
