@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ahmed
+# Hi there! 👋 I'm Hanem
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=AI+Enthusiast+%7C+Python+Developer;Building+Intelligent+Systems;Always+Learning+New+Tech" alt="Typing SVG" />
