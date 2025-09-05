@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I'm Hanem Ellethy  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanemellethy)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qs9heBQAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/hanemellethy](https://www.linkedin.com/feed/))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=qs9heBQAAAAJ&hl=en](https://scholar.google.com.au/citations?user=qs9heBQAAAAJ&hl=en))
 [![GitHub followers](https://img.shields.io/github/followers/hanemma7moud?style=for-the-badge)](https://github.com/hanemma7moud)
 ![Profile Views](https://komarev.com/ghpvc/?username=hanemma7moud&style=for-the-badge&color=blue)
 
