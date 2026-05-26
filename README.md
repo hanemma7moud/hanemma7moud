@@ -1,11 +1,10 @@
 # 👩‍💻 Hi, I'm Hanem Ellethy  
 
-### 🚀 Highlighted Project: AI Career Agent Template
-I built an open-source, student-friendly **AI Career Agent** template powered by **Azure AI Foundry** and **Streamlit**. 
+## 🤖 Chat with my AI Assistant
+You can ask my custom-trained AI Agent about my publications, research, and teaching experience:
 
-*   **Live Demo:** [hanem-ai-agent.streamlit.app](https://hanem-ai-agent.streamlit.app )
-*   **Template Repository:** [hanemma7moud/ai-career-agent](https://github.com/hanemma7moud/ai-career-agent ) (Students can fork this to build their own portfolio assistants!)
----
+[![Chat with my AI Agent](https://img.shields.io/badge/Chat%20with%20my%20AI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white )](https://hanem-ai-agent.streamlit.app )
+
 
 ## 🔬 About Me  
 
