@@ -1,7 +1,17 @@
 # 👩‍💻 Hi, I'm Hanem Ellethy  
 
 ## 🤖 Chat with my AI Assistant
-You can ask my custom-trained AI Agent about my publications, research, and teaching experience:
+
+<a href="https://hanem-ai-agent.streamlit.app" target="_blank">
+  <img src="https://img.shields.io/badge/Interactive_CV_Assistant-Active-brightgreen?style=flat-square&logo=azure" alt="AI Agent Badge" />
+</a>
+
+> **Ask my AI Agent about my qualifications, research papers, and teaching philosophy!**
+
+<a href="https://hanem-ai-agent.streamlit.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanemma7moud&repo=ai-career-agent&theme=transparent" alt="AI Career Agent Repo" width="400" />
+</a>
+
 
 [![Chat with my AI Agent](https://img.shields.io/badge/Chat%20with%20my%20AI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white )](https://hanem-ai-agent.streamlit.app )
 
