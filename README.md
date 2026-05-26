@@ -1,25 +1,10 @@
 # 👩‍💻 Hi, I'm Hanem Ellethy  
 
-## 🤖 Chat with my AI Assistant
+### 🚀 Highlighted Project: AI Career Agent Template
+I built an open-source, student-friendly **AI Career Agent** template powered by **Azure AI Foundry** and **Streamlit**. 
 
-<a href="https://hanem-ai-agent.streamlit.app" target="_blank">
-  <img src="https://img.shields.io/badge/Interactive_CV_Assistant-Active-brightgreen?style=flat-square&logo=azure" alt="AI Agent Badge" />
-</a>
-
-> **Ask my AI Agent about my qualifications, research papers, and teaching philosophy!**
-
-<a href="https://hanem-ai-agent.streamlit.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hanemma7moud&repo=ai-career-agent&theme=transparent" alt="AI Career Agent Repo" width="400" />
-</a>
-
-
-[![Chat with my AI Agent](https://img.shields.io/badge/Chat%20with%20my%20AI-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white )](https://hanem-ai-agent.streamlit.app )
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanem-ellethy-phd-867573a9)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qs9heBQAAAAJ&hl=en)
-[![GitHub followers](https://img.shields.io/github/followers/hanemma7moud?style=for-the-badge)](https://github.com/hanemma7moud)
-![Profile Views](https://komarev.com/ghpvc/?username=hanemma7moud&style=for-the-badge&color=blue)
-
+*   **Live Demo:** [hanem-ai-agent.streamlit.app](https://hanem-ai-agent.streamlit.app )
+*   **Template Repository:** [hanemma7moud/ai-career-agent](https://github.com/hanemma7moud/ai-career-agent ) (Students can fork this to build their own portfolio assistants!)
 ---
 
 ## 🔬 About Me  
@@ -28,6 +13,11 @@
 📊 Senior AI Consultant | Data Scientist | Educator  
 🌱 Passionate about **AI research, teaching, and real-world impact**  
 💡 Specializing in **Machine Learning, Deep Learning, Generative AI, LLMs, and Computer Vision**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanem-ellethy-phd-867573a9)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=qs9heBQAAAAJ&hl=en)
+[![GitHub followers](https://img.shields.io/github/followers/hanemma7moud?style=for-the-badge)](https://github.com/hanemma7moud)
+![Profile Views](https://komarev.com/ghpvc/?username=hanemma7moud&style=for-the-badge&color=blue)
 
 ---
 
